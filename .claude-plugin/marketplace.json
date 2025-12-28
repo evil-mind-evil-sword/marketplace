@@ -1,0 +1,24 @@
+{
+  "name": "evil-sword",
+  "owner": {
+    "name": "evil-mind-evil-sword"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for evil-mind-evil-sword tools",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "idle",
+      "source": {
+        "source": "github",
+        "repo": "evil-mind-evil-sword/idle"
+      },
+      "description": "Multi-model development agents for exploration, research, reasoning, documentation, and review",
+      "version": "0.8.1",
+      "author": {
+        "name": "femtomc"
+      }
+    }
+  ]
+}
