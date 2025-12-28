@@ -19,11 +19,11 @@ Add this marketplace to Claude Code:
 ## Installing Plugins
 
 ```bash
-/plugin install idle@evil-sword
+/plugin install idle@emes
 ```
 
 ## Updating
 
 ```bash
-/plugin marketplace update evil-sword
+/plugin marketplace update emes
 ```
