@@ -1,6 +1,8 @@
-# evil-mind-evil-sword Marketplace
+# emes Marketplace
 
-Claude Code plugin marketplace for evil-mind-evil-sword tools.
+**Plugin distribution for Claude Code.**
+
+The official plugin marketplace for the evil-mind-evil-sword (emes) project.
 
 ## Installation
 
@@ -14,7 +16,7 @@ Add this marketplace to Claude Code:
 
 | Plugin | Description |
 |--------|-------------|
-| **idle** | Multi-model development agents for exploration, research, reasoning, documentation, and review |
+| **idle** | Agentic harness for Claude Code. Long-running loops, multi-model consensus, message passing. |
 
 ## Installing Plugins
 
