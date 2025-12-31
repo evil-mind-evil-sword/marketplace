@@ -15,7 +15,7 @@
         "repo": "evil-mind-evil-sword/idle"
       },
       "description": "Agentic harness for Claude Code. Long-running loops, multi-model consensus. Agents: alice (deep reasoning). Skills: reviewing, researching, issue-tracking, technical-writing, bib-managing.",
-      "version": "1.5.8",
+      "version": "1.6.1",
       "author": {
         "name": "femtomc"
       }
