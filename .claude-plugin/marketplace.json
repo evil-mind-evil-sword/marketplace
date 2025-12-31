@@ -14,8 +14,8 @@
         "source": "github",
         "repo": "evil-mind-evil-sword/idle"
       },
-      "description": "Agentic harness for Claude Code. Orchestrator/worker architecture with alice (review), bob (orchestrator), and charlie (worker).",
-      "version": "1.3.0",
+      "description": "Agentic harness for Claude Code. Long-running loops, multi-model consensus. Agents: alice (deep reasoning). Skills: reviewing, researching, issue-tracking, technical-writing, bib-managing.",
+      "version": "1.5.1",
       "author": {
         "name": "femtomc"
       }
