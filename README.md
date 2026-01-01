@@ -2,12 +2,6 @@
 
 **Plugin distribution for Claude Code.** Browse and install emes plugins.
 
-## Why?
-
-- **Single Source** — All emes plugins in one registry
-- **Simple Updates** — Check for new versions with one command
-- **Versioned** — Pin specific plugin versions for reproducibility
-
 ## Installation
 
 Add this marketplace to Claude Code:
