@@ -16,7 +16,7 @@ Add this marketplace to Claude Code:
 
 | Plugin | Description |
 |--------|-------------|
-| **idle** | Agentic harness for Claude Code. Long-running loops, multi-model consensus, message passing. |
+| **idle** | Quality gate for Claude Code. Every exit requires alice review. Skills: reviewing, researching, issue-tracking, technical-writing, bib-managing. |
 
 ## Installing Plugins
 
