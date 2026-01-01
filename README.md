@@ -1,8 +1,12 @@
 # emes Marketplace
 
-**Plugin distribution for Claude Code.**
+**Plugin distribution for Claude Code.** Browse and install emes plugins.
 
-The official plugin marketplace for the evil-mind-evil-sword (emes) project.
+## Why?
+
+- **Single Source** — All emes plugins in one registry
+- **Simple Updates** — Check for new versions with one command
+- **Versioned** — Pin specific plugin versions for reproducibility
 
 ## Installation
 
