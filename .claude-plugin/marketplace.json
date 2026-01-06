@@ -15,7 +15,7 @@
         "repo": "evil-mind-evil-sword/idle"
       },
       "description": "Quality gate for Claude Code. Every exit requires alice review. Skills: reviewing, researching, issue-tracking, technical-writing, bib-managing.",
-      "version": "26.1.7",
+      "version": "26.1.8",
       "author": {
         "name": "femtomc"
       }
