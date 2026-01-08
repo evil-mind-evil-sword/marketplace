@@ -14,12 +14,12 @@ Add this marketplace to Claude Code:
 
 | Plugin | Description |
 |--------|-------------|
-| **idle** | Quality gate for Claude Code. Every exit requires alice review. Skills: reviewing, researching, issue-tracking, technical-writing, bib-managing. |
+| **alice** | Quality gate for Claude Code. Every exit requires alice review. Skills: reviewing, researching, issue-tracking, technical-writing, bib-managing. |
 
 ## Installing Plugins
 
 ```bash
-/plugin install idle@emes
+/plugin install alice@emes
 ```
 
 ## Updating
